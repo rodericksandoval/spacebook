@@ -4,7 +4,7 @@
   "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
   "footer": "Made with ❤ in Minneapolis",
   "url": "https://spacebook.app",
-  "githubUrl": "https://github.com/<username>/<repository>",
+  "githubUrl": "https://github.com/rodericksandoval/spacebook",
   "githubBranch": "main",
   "navigationStyle": "vertical",
   "emoji": "💥",
@@ -12,10 +12,10 @@
   "enableDarkMode": true,
   "enableEditButton": true,
   "enableDatestamp": true,
-  "enableGithubLink": false,
+  "enableGithubLink": true,
   "enableContact": false,
-  "enableNetlifyCMS": false,
+  "enableNetlifyCMS": true,
   "enableComments": false,
-  "enableEncryption": false,
+  "enableEncryption": true,
   "enablePageNavigation": true
 }

@@ -1841,6 +1841,10 @@ input:where([type='file']):focus {
   --tw-text-opacity: 1 !important;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1)) !important;
 }
+.text-gray-300 {
+  --tw-text-opacity: 1 !important;
+  color: rgb(209 213 219 / var(--tw-text-opacity, 1)) !important;
+}
 .no-underline {
   text-decoration-line: none !important;
 }
